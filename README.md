@@ -1,0 +1,2 @@
+# yarnMonorepoRoolupLearn
+yarn + monorepo + roolup
